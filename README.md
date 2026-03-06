@@ -1,12 +1,21 @@
 ### Online Retail Sales Analysis
 
-## Project Overview
-
-This project analyzes an online retail dataset using SQL and Power BI to identify sales trends, top-performing products, and high-value customers. The goal is to simulate a real-world analytics workflow from raw data ingestion through dashboard reporting.
+SQL + Power BI analysis of an e-commerce dataset (~540K transactions).
 
 Dashboard Preview
 
 <img width="1416" height="794" alt="executive_overview&#39;" src="https://github.com/user-attachments/assets/4e3fa5d0-d4c9-40ef-8fd3-a1f8d4e3130f" />
+
+## Project Overview
+
+This project analyzes an online retail dataset using SQL and Power BI to identify sales trends, top-performing products, and high-value customers. The goal is to simulate a real-world analytics workflow from raw data ingestion through dashboard reporting.
+
+## Business Questions
+
+- Which countries generate the most revenue?
+- Which products drive the most sales?
+- What percentage of customers are repeat buyers?
+- How does revenue change over time?
 
 ## Tools Used
 
