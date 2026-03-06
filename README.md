@@ -1,5 +1,6 @@
 Online Retail Sales Analysis
-Project Overview
+
+## Project Overview
 
 This project analyzes an online retail dataset using SQL and Power BI to identify sales trends, top-performing products, and high-value customers. The goal is to simulate a real-world analytics workflow from raw data ingestion through dashboard reporting.
 
@@ -7,7 +8,7 @@ Dashboard Preview
 
 <img width="1416" height="794" alt="executive_overview&#39;" src="https://github.com/user-attachments/assets/4e3fa5d0-d4c9-40ef-8fd3-a1f8d4e3130f" />
 
-Tools Used
+## Tools Used
 
 - PostgreSQL
 
@@ -17,7 +18,7 @@ Tools Used
 
 - Python (pandas for data loading)
 
-Dataset
+## Dataset
 
 Online Retail dataset containing approximately 540,000 transactions from a UK-based e-commerce retailer between December 2010 and December 2011.
 
@@ -37,7 +38,7 @@ Key columns include:
 
 - Country
 
-Data Cleaning Steps
+## Data Cleaning Steps
 
 - The raw dataset required several cleaning steps before analysis:
 
@@ -49,7 +50,7 @@ Data Cleaning Steps
 
 - Created a cleaned analytical table for reporting
 
-SQL Analysis
+## SQL Analysis
 
 SQL views were created to power dashboard reporting, including:
 
@@ -63,7 +64,7 @@ SQL views were created to power dashboard reporting, including:
 
 - Top customers by revenue
 
-Key Insights
+## Key Insights
 
 - Total revenue in the dataset is approximately £10.6M
 
@@ -75,10 +76,10 @@ Key Insights
 
 - The United Kingdom accounts for the majority of sales
 
-Project Structure
-01_data_raw        Raw dataset
-02_sql             SQL scripts for cleaning and analysis
-03_powerbi         Power BI dashboard
-04_screenshots     Dashboard images
-README.md          Project documentation
-project_notes.md   Analysis notes and workflow
+## Project Structure
+- 01_data_raw        Raw dataset
+- 02_sql             SQL scripts for cleaning and analysis
+- 03_powerbi         Power BI dashboard
+- 04_screenshots     Dashboard images
+- README.md          Project documentation
+- project_notes.md   Analysis notes and workflow
